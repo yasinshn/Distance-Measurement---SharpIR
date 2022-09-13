@@ -1,4 +1,4 @@
-# Hyperloop-Levitation-Measurement
+# Distance Measurement
 
 
 Sensor: Sharp GP2Y0A41SK distance sensor
